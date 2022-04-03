@@ -1,4 +1,4 @@
-%% Assignment 1
+%% Spectral Entropy DOA Analysis
 %% Load data
 
 load case_1.mat
